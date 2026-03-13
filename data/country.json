@@ -1,0 +1,1002 @@
+[
+    {
+        "flags": "https://flagcdn.com/w320/gs.png",
+        "name": "Южная Георгия и Южные Сандвичевы острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gd.png",
+        "name": "Гренада"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ch.png",
+        "name": "Швейцария"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sl.png",
+        "name": "Сьерра-Леоне"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/hu.png",
+        "name": "Венгрия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tw.png",
+        "name": "Тайвань"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/wf.png",
+        "name": "Уоллис и Футуна"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bb.png",
+        "name": "Барбадос"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pn.png",
+        "name": "Острова Питкэрн"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ci.png",
+        "name": "Кот-д’Ивуар"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tn.png",
+        "name": "Тунис"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/it.png",
+        "name": "Италия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bj.png",
+        "name": "Бенин"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/id.png",
+        "name": "Индонезия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cv.png",
+        "name": "Кабо-Верде"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/kn.png",
+        "name": "Сент-Китс и Невис"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/la.png",
+        "name": "Лаос"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bq.png",
+        "name": "Карибские Нидерланды"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ug.png",
+        "name": "Уганда"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ad.png",
+        "name": "Андорра"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bi.png",
+        "name": "Бурунди"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/za.png",
+        "name": "Южная Африка"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/fr.png",
+        "name": "Франция"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ly.png",
+        "name": "Ливия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mx.png",
+        "name": "Мексика"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ga.png",
+        "name": "Габон"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mp.png",
+        "name": "Северные Марианские острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mk.png",
+        "name": "Северная Македония"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cn.png",
+        "name": "Китай"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ye.png",
+        "name": "Йемен"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bl.png",
+        "name": "Сен-Бартелеми"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gg.png",
+        "name": "Гернси"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sb.png",
+        "name": "Соломоновы Острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sj.png",
+        "name": "Шпицберген и Ян-Майен"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/fo.png",
+        "name": "Фарерские острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/uz.png",
+        "name": "Узбекистан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/eg.png",
+        "name": "Египет"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sn.png",
+        "name": "Сенегал"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/lk.png",
+        "name": "Шри-Ланка"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ps.png",
+        "name": "Палестина"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bd.png",
+        "name": "Бангладеш"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pe.png",
+        "name": "Перу"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sg.png",
+        "name": "Сингапур"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tr.png",
+        "name": "Турция"
+    },
+    {
+        "flags": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+        "name": "Афганистан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/aw.png",
+        "name": "Аруба"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ck.png",
+        "name": "Острова Кука"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gb.png",
+        "name": "Великобритания"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/zm.png",
+        "name": "Замбия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/fi.png",
+        "name": "Финляндия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ne.png",
+        "name": "Нигер"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cx.png",
+        "name": "Остров Рождества"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tk.png",
+        "name": "Токелау"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gw.png",
+        "name": "Гвинея-Бисау"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/az.png",
+        "name": "Азербайджан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/re.png",
+        "name": "Реюньон"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/dj.png",
+        "name": "Джибути"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/kp.png",
+        "name": "Северная Корея"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mu.png",
+        "name": "Маврикий"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ms.png",
+        "name": "Монтсеррат"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/vi.png",
+        "name": "Виргинские Острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/co.png",
+        "name": "Колумбия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gr.png",
+        "name": "Греция"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/hr.png",
+        "name": "Хорватия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ma.png",
+        "name": "Марокко"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/dz.png",
+        "name": "Алжир"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/aq.png",
+        "name": "Антарктида"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/nl.png",
+        "name": "Нидерланды"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sd.png",
+        "name": "Судан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/fj.png",
+        "name": "Фиджи"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/li.png",
+        "name": "Лихтенштейн"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/np.png",
+        "name": "Непал"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pr.png",
+        "name": "Пуэрто-Рико"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ge.png",
+        "name": "Грузия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pk.png",
+        "name": "Пакистан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mc.png",
+        "name": "Монако"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bw.png",
+        "name": "Ботсвана"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/lb.png",
+        "name": "Ливан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pg.png",
+        "name": "Папуа — Новая Гвинея"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/yt.png",
+        "name": "Майотта"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/do.png",
+        "name": "Доминиканская Республика"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/nf.png",
+        "name": "Норфолк"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bv.png",
+        "name": "Остров Буве"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/qa.png",
+        "name": "Катар"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mg.png",
+        "name": "Мадагаскар"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/in.png",
+        "name": "Индия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sy.png",
+        "name": "Сирия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/me.png",
+        "name": "Черногория"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sz.png",
+        "name": "Свазиленд"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/py.png",
+        "name": "Парагвай"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sv.png",
+        "name": "Сальвадор"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ua.png",
+        "name": "Украина"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/im.png",
+        "name": "Остров Мэн"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/na.png",
+        "name": "Намибия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ae.png",
+        "name": "Объединённые Арабские Эмираты"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bg.png",
+        "name": "Болгария"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gl.png",
+        "name": "Гренландия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/de.png",
+        "name": "Германия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/kh.png",
+        "name": "Камбоджа"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/iq.png",
+        "name": "Ирак"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tf.png",
+        "name": "Французские Южные и Антарктические территории"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/se.png",
+        "name": "Швеция"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cu.png",
+        "name": "Куба"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/kg.png",
+        "name": "Киргизия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ru.png",
+        "name": "Россия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/my.png",
+        "name": "Малайзия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/st.png",
+        "name": "Сан-Томе и Принсипи"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cy.png",
+        "name": "Кипр"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ca.png",
+        "name": "Канада"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mw.png",
+        "name": "Малави"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sa.png",
+        "name": "Саудовская Аравия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ba.png",
+        "name": "Босния и Герцеговина"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/et.png",
+        "name": "Эфиопия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/es.png",
+        "name": "Испания"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/si.png",
+        "name": "Словения"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/om.png",
+        "name": "Оман"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pm.png",
+        "name": "Сен-Пьер и Микелон"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mo.png",
+        "name": "Макао"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sm.png",
+        "name": "Сан-Марино"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ls.png",
+        "name": "Лесото"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mh.png",
+        "name": "Маршалловы Острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sx.png",
+        "name": "Синт-Мартен"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/is.png",
+        "name": "Исландия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/lu.png",
+        "name": "Люксембург"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ar.png",
+        "name": "Аргентина"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tc.png",
+        "name": "Теркс и Кайкос"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/nr.png",
+        "name": "Науру"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cc.png",
+        "name": "Кокосовые острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/eh.png",
+        "name": "Западная Сахара"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/dm.png",
+        "name": "Доминика"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cr.png",
+        "name": "Коста-Рика"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/au.png",
+        "name": "Австралия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/th.png",
+        "name": "Таиланд"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ht.png",
+        "name": "Гаити"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tv.png",
+        "name": "Тувалу"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/hn.png",
+        "name": "Гондурас"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gq.png",
+        "name": "Экваториальная Гвинея"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/lc.png",
+        "name": "Сент-Люсия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pf.png",
+        "name": "Французская Полинезия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/by.png",
+        "name": "Беларусь"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/lv.png",
+        "name": "Латвия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pw.png",
+        "name": "Палау"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gp.png",
+        "name": "Гваделупа"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ph.png",
+        "name": "Филиппины"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gi.png",
+        "name": "Гибралтар"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/dk.png",
+        "name": "Дания"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cm.png",
+        "name": "Камерун"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gn.png",
+        "name": "Гвинея"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bh.png",
+        "name": "Бахрейн"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sr.png",
+        "name": "Суринам"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cd.png",
+        "name": "Демократическая Республика Конго"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/so.png",
+        "name": "Сомали"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cz.png",
+        "name": "Чехия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/nc.png",
+        "name": "Новая Каледония"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/vu.png",
+        "name": "Вануату"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sh.png",
+        "name": "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tg.png",
+        "name": "Того"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/vg.png",
+        "name": "Британские Виргинские острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ke.png",
+        "name": "Кения"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/nu.png",
+        "name": "Ниуэ"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/hm.png",
+        "name": "Остров Херд и острова Макдональд"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/rw.png",
+        "name": "Руанда"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ee.png",
+        "name": "Эстония"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ro.png",
+        "name": "Румыния"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tt.png",
+        "name": "Тринидад и Тобаго"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gy.png",
+        "name": "Гайана"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tl.png",
+        "name": "Восточный Тимор"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/vn.png",
+        "name": "Вьетнам"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/uy.png",
+        "name": "Уругвай"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/va.png",
+        "name": "Ватикан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/hk.png",
+        "name": "Гонконг"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/at.png",
+        "name": "Австрия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ag.png",
+        "name": "Антигуа и Барбуда"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tm.png",
+        "name": "Туркмения"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mz.png",
+        "name": "Мозамбик"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pa.png",
+        "name": "Панама"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/fm.png",
+        "name": "Федеративные Штаты Микронезии"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ie.png",
+        "name": "Ирландия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cw.png",
+        "name": "Кюрасао"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gf.png",
+        "name": "Французская Гвиана"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/no.png",
+        "name": "Норвегия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ax.png",
+        "name": "Аландские острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cf.png",
+        "name": "Центральноафриканская Республика"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bf.png",
+        "name": "Буркина-Фасо"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/er.png",
+        "name": "Эритрея"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tz.png",
+        "name": "Танзания"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/kr.png",
+        "name": "Южная Корея"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/jo.png",
+        "name": "Иордания"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mr.png",
+        "name": "Мавритания"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/lt.png",
+        "name": "Литва"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/um.png",
+        "name": "Внешние малые острова США"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sk.png",
+        "name": "Словакия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ao.png",
+        "name": "Ангола"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/kz.png",
+        "name": "Казахстан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/md.png",
+        "name": "Молдавия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ml.png",
+        "name": "Мали"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/fk.png",
+        "name": "Фолклендские острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/am.png",
+        "name": "Армения"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ws.png",
+        "name": "Самоа"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/je.png",
+        "name": "Джерси"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/jp.png",
+        "name": "Япония"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bo.png",
+        "name": "Боливия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cl.png",
+        "name": "Чили"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/us.png",
+        "name": "Соединённые Штаты Америки"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/vc.png",
+        "name": "Сент-Винсент и Гренадины"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bm.png",
+        "name": "Бермудские Острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/sc.png",
+        "name": "Сейшельские Острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/io.png",
+        "name": "Британская территория в Индийском океане"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gt.png",
+        "name": "Гватемала"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ec.png",
+        "name": "Эквадор"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mq.png",
+        "name": "Мартиника"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/tj.png",
+        "name": "Таджикистан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mt.png",
+        "name": "Мальта"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gm.png",
+        "name": "Гамбия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ng.png",
+        "name": "Нигерия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bs.png",
+        "name": "Багамские Острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/xk.png",
+        "name": "Республика Косово"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/kw.png",
+        "name": "Кувейт"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mv.png",
+        "name": "Мальдивы"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ss.png",
+        "name": "Южный Судан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ir.png",
+        "name": "Иран"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/al.png",
+        "name": "Албания"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/br.png",
+        "name": "Бразилия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/rs.png",
+        "name": "Сербия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bz.png",
+        "name": "Белиз"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mm.png",
+        "name": "Мьянма"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bt.png",
+        "name": "Бутан"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ve.png",
+        "name": "Венесуэла"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/lr.png",
+        "name": "Либерия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/jm.png",
+        "name": "Ямайка"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pl.png",
+        "name": "Польша"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ky.png",
+        "name": "Каймановы острова"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/bn.png",
+        "name": "Бруней"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/km.png",
+        "name": "Коморы"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gu.png",
+        "name": "Гуам"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/to.png",
+        "name": "Тонга"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ki.png",
+        "name": "Кирибати"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/gh.png",
+        "name": "Гана"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/td.png",
+        "name": "Чад"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/zw.png",
+        "name": "Зимбабве"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mf.png",
+        "name": "Сен-Мартен"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/mn.png",
+        "name": "Монголия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/pt.png",
+        "name": "Португалия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/as.png",
+        "name": "Американское Самоа"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/cg.png",
+        "name": "Республика Конго"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/be.png",
+        "name": "Бельгия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/il.png",
+        "name": "Израиль"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/nz.png",
+        "name": "Новая Зеландия"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ni.png",
+        "name": "Никарагуа"
+    },
+    {
+        "flags": "https://flagcdn.com/w320/ai.png",
+        "name": "Ангилья"
+    }
+]
